@@ -1,6 +1,6 @@
 bot_url = '' #your nubot dm URL
-username = '' #flatironschool.com email username (without @flatironschool.com)
-password = '' #flatironschool.com email password
+username = '' #email username (without @domain.com)
+password = '' #email password
 spam_string = '' #the message to spam
 iterations = 100 #how many times to spam it
 
